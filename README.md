@@ -1,2 +1,9 @@
 # awesome-challenges
-awesome challenges for kids 
+
+Awesome challenges for kids
+
+
+
+## Python
+
+- [Python Challenge](http://www.pythonchallenge.com/)
